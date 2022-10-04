@@ -1,6 +1,6 @@
 ### Binary Search Insert
 
-[![File Number](https://img.shields.io/github/directory-file-count/toniilic1/Binary-Search-Insert"File Number")](https://github.com/toniilic1/Binary-Search-Insert)
+[![File Number](https://img.shields.io/github/directory-file-count/toniilic1/inary-Search-Insert "File Number")](https://github.com/toniilic1/inary-Search-Insert)
 [![Size](https://img.shields.io/github/repo-size/toniilic1/Binary-Search-Insert)](https://github.com/toniilic1/Binary-Search-Insert)
 [![Commits](https://img.shields.io/github/commit-activity/m/toniilic1/Binary-Search-Insert)](https://github.com/toniilic1/Binary-Search-Insert/graphs/commit-activity)
 [![License](https://img.shields.io/github/license/toniilic1/Binary-Search-Insert "License")](https://github.com/toniilic1/Binary-Search-Insert/blob/master/LICENSE.txt "License")
