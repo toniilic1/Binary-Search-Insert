@@ -10,7 +10,7 @@ Using binary search we go through a list with a specific target to look for or i
 
 Binary search is an algorithm with O(log n) time complexity, therefore the execution speed is considerably faster.
 
-A built-in module '''time''' was used for its '''time.pref_counter()''' function, to show execution speed of the code.
+A built-in module ```time``` was used for its ```time.pref_counter``` function, to show execution speed of the code.
 
 Idea taken from [leetcode.com](https://leetcode.com/problems/search-insert-position/)
 
